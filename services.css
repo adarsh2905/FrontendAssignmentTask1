@@ -1,0 +1,99 @@
+/* services */
+
+.head{
+    color: white;
+    font-size: 26px;
+    font-family: Trebuchet MS;
+    text-align:justify;
+    font-weight: 100;
+    margin: 25px 30px 30px 10px;
+    letter-spacing: 3px;
+}
+
+.img-pad1{
+    height: 150px;
+    width: 340px;
+    padding: 30px 20px 15px 30px;
+    justify-content: space-around;
+}
+
+.img-pad2{
+    height: 150px;
+    width: 340px;
+    padding: 15px 20px 15px 30px;
+    justify-content: space-around;
+}
+
+.para{
+    font-size: 20px;
+    font-family: Trebuchet MS;
+}
+
+.paraInBox{
+    font-size: 22px;
+    font-family: Trebuchet MS;
+}
+
+.service-sidelink{
+    padding-left: 20px;
+}
+
+.sideBox{ 
+    margin: 0 40px 0 30px;
+    padding: 10px 0; 
+    border: 1px solid rgba(255, 255, 255, 0.5); 
+    border-left: none;
+    border-right: none;
+    line-height: 28px;
+}
+
+.listMargin{
+    margin: 15px;
+}
+
+.lowerBox{
+    margin: 0 10px 30px 15px;
+    padding: 0 10px 10px 25px; 
+    border: 1px solid rgba(255, 255, 255, 0.5); 
+    border-left: none;
+    border-right: none;
+    background-color: #10223A;
+}
+
+.button {
+    background-color: #175A77;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 15px;
+  }
+
+.flex-container-margin{
+    margin-top: 70px;
+}
+
+.flex-container-services{ 
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-container-services :nth-child(3){
+    color: white;
+    display: flex;
+}
+
+.flex-container-services :nth-child(3) p {
+    margin: 0;
+    font-size: 25px;
+    color: white;
+    padding: 0 10px;
+    border-radius: 5px;
+    background-color: #155D76;
+}
