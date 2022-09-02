@@ -8,7 +8,7 @@ body {
 
 p {
     color: white;
-    padding: 0px 15px 10px 15px;
+    padding: 0 15px 10px 22px;
     font-size: 18px;
     font-family: Trebuchet MS;
 }
@@ -113,7 +113,6 @@ a.non-underline {
     content: "";
     border: 1px solid white;
     margin: 0 10px;
-    max-height: 80px;
 }
 
 .inner-link:first-child{

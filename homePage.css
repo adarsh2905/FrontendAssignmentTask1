@@ -1,3 +1,13 @@
+.homeButton{
+    content: "";
+    color: white;
+    background-color: #175A77;
+    margin: 0;
+    max-height: 80px;
+    padding: 0 15px;
+    border-radius: 5px;
+}
+
 .heading{
     color: rgb(255, 255, 255);
     font-size: 48px;
